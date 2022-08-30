@@ -1,0 +1,5 @@
+1 - Criar dicionario que contenha as palavras vistas e aprendidas no estudos da área de TI.
+
+2- Manter atualizado sempre.
+
+3 - 
