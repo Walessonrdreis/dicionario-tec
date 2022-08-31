@@ -5,7 +5,7 @@
 
 <strong>Metodologia de Desenvolvimento de Sistemas (Cap Gemini SDM ou SDM2)</strong> – é um método de desenvolvimento de software baseado no modelo cascata, dividido em sete etapas de trabalho, com inicio, meio e fim. Foi criado pela empresa  Pandata, nos países baixos no ano de 1970.
 
-<strong>Estrutura de Análise de Sistemas e Metodologia de Projeto (SSADM) <strong> – é um método criado pelo governo do Reino Unido para avaliar e analisar projetos de sistemas ou software. Foi criado pela agência de telecomunicações do Reino Unido no início dos anos 80.
+<strong>Estrutura de Análise de Sistemas e Metodologia de Projeto (SSADM) </strong> – é um método criado pelo governo do Reino Unido para avaliar e analisar projetos de sistemas ou software. Foi criado pela agência de telecomunicações do Reino Unido no início dos anos 80.
 
 <strong>Sistema de Investigação ou de Aprendizagem (SSM) </strong> – é um sistema de aprendizado voltado para gerenciamento de problemas gerais, estruturação e organização humana. O sistema foi criado por Peter Checkland em 1981.
 
@@ -19,7 +19,7 @@
 
 <Strong>Processo unificado racional (Rational Unified Process – RUP) </strong>– é um processo de programação orientada a objeto para o desenvolvimento de projeto em UML.
 
-<strong>Programação Extrema (Extreme Programming XP) – é um tipo de metodologia ágil voltado para um monitoramento constante e presente, para ajustar o projeto de acordo ao andamento do desenvolvimento do projeto do software.
+<strong>Programação Extrema (Extreme Programming XP)</strong> – é um tipo de metodologia ágil voltado para um monitoramento constante e presente, para ajustar o projeto de acordo ao andamento do desenvolvimento do projeto do software.
 
 <strong>Métodos de Processos Ágeis Unificados (Agile Unified Process - AUP) </strong> – é um processo sequencial para desenvolvimento de software, baseado em fases de processo de trabalho: Início, Elaboração, Construção e Transição. 
 
@@ -42,3 +42,56 @@
   <li><strong>Documentação, Suporte e Treinamento </strong> – avaliação de relatório e documento do software ou sistema;</li>
   <li><strong>Rotinas e Manutenção</strong> – controle de qualidade e segurança para o software ou sistema.</li>
 </ul>
+
+<h2>Análise e estudo de Projetos</h2>
+
+
+<strong>Diretrizes e atributos de qualidade de software</strong> – é uma avaliação sobre o entendimento de padronizações e necessidade específica que projeto precisa ter.
+
+<strong>A evolução de um projeto de </strong> – descreve uma avaliação de pré-produção, produção e pós-produção para o projeto do software, estabelecendo um cronograma de trabalho adaptado para o andamento do projeto
+
+<h2>Conceitos de projetos</h2>
+
+Abstração - construção conceitual de ideias;
+
+Arquitetura – organização do projeto;
+
+Padrões – criação e adequação de áreas e necessidades;
+
+Separação por interesse (por afinidade) – integração de funções e tarefas;
+
+Modularidade – organização em grupos de dados;
+
+Encapsulamento de Informação – adição de novas informações;
+
+Independência funcional – liberdade de tomada de decisões no sistema;
+
+Refinamento – filtrando ações e informações;
+
+Aspectos – evidências e necessidades para o projeto;
+
+Refatoração – melhora da programação do sistema;
+
+Conceitos de projetos orientados a objetos – adaptação do projeto ao processo de programação orientado ao objeto;
+
+Classes de projetos – divisão de classes do projeto;
+
+Inversão de dependência – avanço a áreas do sistema;
+
+Projeto para teste – avaliação do projeto pelos usuários
+
+Elementos de projetos de dados – ligado ao processamento de cadastro e armazenamento de informações;
+
+Elementos de projetos de arquitetura – organização conceitual do projeto do software;
+
+Elementos de projetos de interface – construção da elaboração das telas da interface;
+
+Elementos de projetos de componentes – são componentes de programação do projeto;
+
+Elementos do projeto de implementação – é o processo de programação do software ou sistema.
+
+
+
+
+
+
