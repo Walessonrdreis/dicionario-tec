@@ -1,0 +1,6 @@
+Tabelas:
+
+1- alfabeto a - z
+  colunas: titulo pt-br, titulo inglês e descrição(significado)
+2- linguagens
+3- 

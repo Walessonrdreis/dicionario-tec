@@ -1,5 +1,8 @@
 1 - Criar dicionario que contenha as palavras vistas e aprendidas no estudos da área de TI.
 
 2- Manter atualizado sempre.
-
-3 - 
+3 - Criar Página web no futuro
+4- Criar lista segundo letras, linguagens etc.
+5- Ter nome em português e inglês 
+6- Criar banco de dados.
+7 - Criar backend completo
